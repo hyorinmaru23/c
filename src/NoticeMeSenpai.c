@@ -3,7 +3,7 @@
  * Program name: NoticeMeSenpai
  * Author: ZeroDay
  * About: Keylogger with active windows detection
- *        User may distribute and modify source code but MUST keep this top commented section in the source code!
+ *        User may distribute and modify source code!
  * I will NOT be held responsible for anything silly you may do with this!
  * Created on 15 mai 2017, 15:56
  */
